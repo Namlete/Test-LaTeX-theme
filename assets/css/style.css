@@ -101,10 +101,6 @@
     column-count: 2;
 }
 
-/* In đậm, in nghiêng */
-
-
-
 /* Link */
 a {
     color:rgb(50, 78, 192); 
@@ -163,8 +159,6 @@ li {
   position: absolute;
 }
 
-/* Social Media */
-
 
 .footerSize{
     height: 30vh;
@@ -211,3 +205,4 @@ li {
     font-size: 33px;
 }
 
+/* Social Media */
